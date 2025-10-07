@@ -60,7 +60,7 @@ h1 {
     color: white;
 }
 
-.content {
+.contents {
     background-color: #f0f8ff;
     padding: 20px;
     border-radius: 15px;
@@ -68,7 +68,7 @@ h1 {
     margin-bottom: 30px;
 }
 
-.content h2 {
+.contents h2 {
     color: #4682B4;
     border-bottom: 1px solid #4682B4;
     padding-bottom: 5px;
