@@ -37,14 +37,14 @@ h1 {
     color: #2F4F4F;
 }
 
-.pestañas {
+.tabs {
     display: flex;
     justify-content: center;
     margin-bottom: 25px;
     gap: 20px;
 }
 
-.pestañas a {
+.tabs a {
     background-color: #87CEFA;
     color: #000;
     text-decoration: none;
@@ -55,12 +55,12 @@ h1 {
     border: 2px solid #4682B4;
 }
 
-.pestañas a:hover {
+.tabs a:hover {
     background-color: #4682B4;
     color: white;
 }
 
-.contenido {
+.content {
     background-color: #f0f8ff;
     padding: 20px;
     border-radius: 15px;
@@ -68,7 +68,7 @@ h1 {
     margin-bottom: 30px;
 }
 
-.contenido h2 {
+.content h2 {
     color: #4682B4;
     border-bottom: 1px solid #4682B4;
     padding-bottom: 5px;
